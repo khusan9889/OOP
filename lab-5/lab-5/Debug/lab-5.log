@@ -1,0 +1,4 @@
+﻿  lab-5.cpp
+C:\Users\Asus\source\repos\lab-5\lab-5\lab-5.cpp(94,22): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Asus\source\repos\lab-5\lab-5\lab-5.cpp(94,37): warning C4305: аргумент: усечение из "double" в "float"
+  lab-5.vcxproj -> C:\Users\Asus\source\repos\lab-5\Debug\lab-5.exe

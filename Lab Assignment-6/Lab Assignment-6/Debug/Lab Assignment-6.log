@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Asus\source\repos\Lab Assignment-6\Lab Assignment-6\Source.cpp(70,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asus\source\repos\Lab Assignment-6\Lab Assignment-6\Source.cpp(80,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asus\source\repos\Lab Assignment-6\Lab Assignment-6\Source.cpp(89,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Asus\source\repos\Lab Assignment-6\Lab Assignment-6\Source.cpp(97,12): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Lab Assignment-6.vcxproj -> C:\Users\Asus\source\repos\Lab Assignment-6\Debug\Lab Assignment-6.exe

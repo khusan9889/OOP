@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Asus\source\repos\Lab_assignment-5\Lab_assignment-5\Source.cpp(7,20): warning C4305: инициализация: усечение из "double" в "float"
+  Lab_assignment-5.vcxproj -> C:\Users\Asus\source\repos\Lab_assignment-5\Debug\Lab_assignment-5.exe
