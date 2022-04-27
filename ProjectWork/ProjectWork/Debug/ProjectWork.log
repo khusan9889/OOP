@@ -1,0 +1,3 @@
+﻿  ProjectWork.cpp
+C:\Users\Asus\source\repos\ProjectWork\ProjectWork\ProjectWork.cpp(23,7): warning C4101: x: неиспользованная локальная переменная
+  ProjectWork.vcxproj -> C:\Users\Asus\source\repos\ProjectWork\Debug\ProjectWork.exe
